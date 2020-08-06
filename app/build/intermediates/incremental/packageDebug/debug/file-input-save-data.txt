@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Aug 05 20:10:58 SGT 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Asus\\Desktop\\test\\Scorekeeper\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
